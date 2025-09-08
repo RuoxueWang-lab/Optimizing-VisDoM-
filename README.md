@@ -1,7 +1,9 @@
 # Optimizing-VisDoM-
 
-## Quickstart
-git clone https://github.com/MananSuri27/VisDoM \\
+## Get datasets
+1) **Clone the VisDoM datasets**
+```bash
+git clone https://github.com/MananSuri27/VisDoM
 Then you can access the datasets SPIQA, SlideVQA, SciGraphVQA, PaperTab, FetaTab.
 
 ## Set up environment
