@@ -4,8 +4,9 @@
 1) **Clone the VisDoM datasets**
 ```bash
 git clone https://github.com/MananSuri27/VisDoM
-Then you can access the datasets SPIQA, SlideVQA, SciGraphVQA, PaperTab, FetaTab, as well as the eval.py for calculating Word Overlap F1 scores.
 ```
+Then you can access the datasets SPIQA, SlideVQA, SciGraphVQA, PaperTab, FetaTab, as well as the eval.py for calculating Word Overlap F1 scores.
+
 ## Set up environment
 ```bash
 conda env create -f environment.yml
